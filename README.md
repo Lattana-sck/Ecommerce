@@ -16,7 +16,6 @@ Réaliser un site web E-commerce et toutes ses fonctionnalités
 ## Auteurs
 
 Lattana 
-Ziwei
 Abdallah
 
 ## Ecole Epitech
